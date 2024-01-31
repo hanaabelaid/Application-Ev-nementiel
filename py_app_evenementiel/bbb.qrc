@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>sortir.png</file>
+    <file>applications.png</file>
+    <file>calendrier-coeur.png</file>
+    <file>telecharger.png</file>
+    <file>utilisateur.png</file>
+    <file>clients.png</file>
+    <file>maison.png</file>
+    <file>activity.svg</file>
+    <file>logorbg.png</file>
+  </qresource>
+</RCC>
